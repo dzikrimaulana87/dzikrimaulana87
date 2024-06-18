@@ -1,7 +1,3 @@
-Sure, here's a more neatly formatted version of your README.md:
-
----
-
 ## Hi there 👋
 
 I'm an undergraduate developer with a strong passion for programming, especially in the field of machine learning. My journey in technology is driven by curiosity and a desire to create innovative solutions that make a difference.
