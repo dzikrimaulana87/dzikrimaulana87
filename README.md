@@ -1,4 +1,7 @@
 ## Hi there 👋
+<div align="center">
+<img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="100">
+</div>
 
 I'm an undergraduate developer with a strong passion for programming, especially in the field of machine learning. My journey in technology is driven by curiosity and a desire to create innovative solutions that make a difference.
 
