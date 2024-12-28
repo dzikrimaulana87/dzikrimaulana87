@@ -3,7 +3,7 @@
 <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="100">
 </div>
 
-I'm an undergraduate developer with a strong passion for programming, especially in the field of machine learning. My journey in technology is driven by curiosity and a desire to create innovative solutions that make a difference.
+A motivated Machine Learning Engineer in training with expertise in AI, model development, and data processing. Experienced as a teaching assistant in AI labs and web programming, skilled in problem-solving and mentoring. Backed by diverse certifications and hands-on experience leading web system improvements for BEM Fasilkom Unsika. Dedicated to leveraging data-driven approaches to deliver innovative, scalable solutions.
 
 ### About Me
 
@@ -11,7 +11,6 @@ I'm an undergraduate developer with a strong passion for programming, especially
 - 🌱 I’m currently learning advanced concepts in machine learning, data analysis, and web development frameworks like Laravel and CodeIgniter.
 - 👯 I’m looking to collaborate on exciting machine learning and web development projects.
 - 🤔 I’m looking for help with enhancing my skills in deep learning and contributing to open-source projects.
-- ⚡ Fun fact: I love exploring the intersection of technology and creativity, often experimenting with new ideas and technologies.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzikrimaulana87&layout=compact&theme=nightowl) ![Dzikri Maulana's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dzikrimaulana87&theme=nightowl&hide_border=false)
 
