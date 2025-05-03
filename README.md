@@ -22,4 +22,4 @@ A motivated Machine Learning Engineer in training with expertise in AI, model de
 
 | Programming Languages                         | Frameworks & Libraries                                | Tools & Technologies                   |
 |-----------------------------------------------|-------------------------------------------------------|----------------------------------------|
-| Python, PHP, JavaScript, HTML/CSS (😏)             | TensorFlow/Keras, Laravel, CodeIgniter, Pandas & NumPy| Git & GitHub, Docker, MySQL & SQLite, Apache & Nginx |
+| Python, PHP, JavaScript, [HTML/CSS (😏)]             | TensorFlow/Keras, Laravel, CodeIgniter, Pandas & NumPy| Git & GitHub, Docker, MySQL & SQLite, Apache & Nginx |
