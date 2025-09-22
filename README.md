@@ -26,7 +26,7 @@
 > **Aspiring Machine Learning Engineer** | **Bangkit Academy Graduate** specializing in **Deep Learning**, **NLP**, **Computer Vision**, and **MLOps** with proven track record in **competition wins** and **academic excellence** (GPA 3.98/4.00).
 
 ```python
-class EliteMLEngineer:
+class MLEngineer:
     def __init__(self):
         self.name = "Dzikri Maulana"
         self.title = "Machine Learning Engineer & Data Scientist"
@@ -69,7 +69,7 @@ class EliteMLEngineer:
 ### 🎓 **Academic & Professional Excellence**
 
 **GPA 3.98/4.00** - Top 6th Semester Student <br>
-**Bangkit Academy Graduate** - Elite ML Cohort by Google, Tokopedia, Gojek, Traveloka <br>
+**Bangkit Academy Graduate** - ML Cohort by Google, Tokopedia, Gojek, Traveloka <br>
 **Teaching Assistant** - AI Labs & Embedded Intelligence Systems <br>
 **Laboratory Assistant** - Faculty of Computer Science <br>
 
@@ -133,9 +133,9 @@ class EliteMLEngineer:
 
 ---
 
-## 📜 Elite Certifications
+## 📜 Certifications
 
-🎓 Elite Certifications
+🎓 Certifications
 <div align="center">
 <!-- Interactive Certification Cards -->
 <table>
@@ -161,7 +161,7 @@ class EliteMLEngineer:
 ## 📊 GitHub Analytics & Performance
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dzikrimaulana87&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Elite%20Performance%20Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dzikrimaulana87&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Performance%20Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzikrimaulana87&layout=compact&langs_count=8&theme=tokyonight&custom_title=Tech%20Mastery%20Distribution"/>
 </div>
 
@@ -232,7 +232,7 @@ class EliteMLEngineer:
 
 <div align="center">
 
-### 🎯 **Ready for Elite Collaborations**
+### 🎯 **Ready for Collaborations**
 
 **🧠 Advanced ML Research** • **🚀 Startup AI Solutions** • **🏢 Enterprise ML Systems** • **📚 Open Source Innovation**
 
@@ -251,5 +251,5 @@ class EliteMLEngineer:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Elite%20AI%20Engineer%20Ready%20for%20Impact!&fontSize=25&fontAlignY=65&desc=Let's%20transform%20ideas%20into%20intelligent%20solutions&descAlignY=85&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=AI%20Engineer%20Ready%20for%20Impact!&fontSize=25&fontAlignY=65&desc=Let's%20transform%20ideas%20into%20intelligent%20solutions&descAlignY=85&descAlign=50"/>
 </div>
