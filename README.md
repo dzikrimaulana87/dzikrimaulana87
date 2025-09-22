@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHl1aWJzdGgzdG16NWdrM2hsMTlveDNwbGVsOHdkcW8yZmVzYXVtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="400" alt="AI Animation"/>
+<img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="100">
 </div>
 
 <div align="center">
@@ -224,7 +224,7 @@ class MLEngineer:
 
 ## 📈 Contribution Journey
 
-[![Dzikri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dzikrimaulana87&theme=react-dark&hide_border=true&area=true&custom_title=Innovation%20%26%20Contribution%20Timeline)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Dzikri Maulana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dzikrimaulana87&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
