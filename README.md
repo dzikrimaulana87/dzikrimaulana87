@@ -31,7 +31,7 @@ class MLEngineer:
         self.name = "Dzikri Maulana"
         self.title = "Machine Learning Engineer & Data Scientist"
         self.education = {
-            "university": "UNSIKA - Informatics (GPA: 3.98/4.00)",
+            "university": "UNSIKA - Informatics (GPA: 3.82/4.00)",
             "bootcamp": "Bangkit Academy ML Cohort (Google, Tokopedia, Gojek, Traveloka)"
         }
         self.specializations = [
