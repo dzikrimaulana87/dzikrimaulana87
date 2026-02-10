@@ -3,8 +3,8 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-            srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=ML+Engineer+%7C+Bangkit+Academy+Graduate;AI+Specialist+%7C+TensorFlow+Developer;Data+Scientist+%7C+NLP+%26+Computer+Vision;GPA+3.98%2F4.00+%7C+Top+Performer">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2F3A8F&center=true&vCenter=true&width=940&lines=ML+Engineer+%7C+Bangkit+Academy+Graduate;AI+Specialist+%7C+TensorFlow+Developer;Data+Scientist+%7C+NLP+%26+Computer+Vision;GPA+3.98%2F4.00+%7C+Top+Performer" alt="Typing SVG" />
+            srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=ML+Engineer+%7C+Bangkit+Academy+Graduate;AI+Specialist+%7C+TensorFlow+Developer;Data+Scientist+%7C+NLP+%26+Computer+Vision;GPA+3.82%2F4.00+%7C+Top+Performer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2F3A8F&center=true&vCenter=true&width=940&lines=ML+Engineer+%7C+Bangkit+Academy+Graduate;AI+Specialist+%7C+TensorFlow+Developer;Data+Scientist+%7C+NLP+%26+Computer+Vision;GPA+3.82%2F4.00+%7C+Top+Performer" alt="Typing SVG" />
   </picture>
 </div>
 
@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🎓_GPA-3.98%2F4.00-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓_GPA-3.82%2F4.00-gold?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🏆_Bangkit_Academy-Graduate-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🥈_Competition-Winner-silver?style=for-the-badge" />
   <img src="https://img.shields.io/badge/👨‍🏫_Teaching_Assistant-Active-green?style=for-the-badge" />
@@ -68,7 +68,7 @@ class MLEngineer:
 
 ### 🎓 **Academic & Professional Excellence**
 
-**GPA 3.98/4.00** - Top 6th Semester Student <br>
+**GPA 3.82/4.00** - Top 6th Semester Student <br>
 **Bangkit Academy Graduate** - ML Cohort by Google, Tokopedia, Gojek, Traveloka <br>
 **Teaching Assistant** - AI Labs & Embedded Intelligence Systems <br>
 **Laboratory Assistant** - Faculty of Computer Science <br>
@@ -212,7 +212,7 @@ class MLEngineer:
 | 🎯 **Core Strengths** | 🚀 **Unique Value** | 🔗 **Integration Expertise** |
 |------------------------|---------------------|------------------------------|
 | **🏆 Competition Winner** | **🎓 Top Academic Performer** | **⚡ End-to-end ML Pipeline** |
-| Proven problem-solving under pressure | GPA 3.98/4.00 with consistent excellence | From data preprocessing to deployment |
+| Proven problem-solving under pressure | GPA 3.82/4.00 with consistent excellence | From data preprocessing to deployment |
 | **🧠 Deep Learning Specialist** | **👨‍🏫 Teaching & Mentoring** | **🌐 Full-Stack Integration** |
 | TensorFlow, NLP, Computer Vision expert | 25+ students mentored successfully | Web apps with embedded AI models |
 | **🤖 MLOps Practitioner** | **🚀 Innovation Leadership** | **☁️ Cloud & Mobile Deploy** |
