@@ -160,10 +160,10 @@ class MLEngineer:
 
 ## 📊 GitHub Analytics & Performance
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dzikrimaulana87&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Performance%20Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzikrimaulana87&layout=compact&langs_count=8&theme=tokyonight&custom_title=Tech%20Mastery%20Distribution"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dzikrimaulana87&theme=tokyonight&hide_border=false&custom_title=Consistency%20&%20Dedication" alt="GitHub Streak"/>
