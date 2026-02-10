@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-> **Aspiring Machine Learning Engineer** | **Bangkit Academy Graduate** specializing in **Deep Learning**, **NLP**, **Computer Vision**, and **MLOps** with proven track record in **competition wins** and **academic excellence** (GPA 3.98/4.00).
+> **Aspiring Machine Learning Engineer** | **Bangkit Academy Graduate** specializing in **Deep Learning**, **NLP**, **Computer Vision**, and **MLOps** with proven track record in **competition wins** and **academic excellence** (GPA 3.82/4.00).
 
 ```python
 class MLEngineer:
